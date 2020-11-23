@@ -1,0 +1,47 @@
+td,th{
+    border: 2px;
+    border-style: solid;
+    border-width: 0.1px;
+   
+}
+th{
+    text-align: center;
+}
+
+table{
+    border-style: double; 
+    border: 1px;
+    border-spacing: 0px;
+}
+
+.m08{
+    background-color: rgba(0, 0, 255, 0.631);
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+.m06{
+    background-color: rgba(0, 128, 0, 0.611);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.m04{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: khaki;
+}
+.m07{
+    font-family: cursive;
+    background-color: rgba(76, 0, 130, 0.275);
+}
+.m10{
+    font-family: monospace;
+    background-color: greenyellow;
+}
+
+.hora{
+    background-color: rgba(128, 128, 128, 0.727);
+}
+.hora2{
+    background-color: rgba(128, 128, 128, 0.727);
+}
+.TUT{
+    background-color: rgba(96, 8, 158, 0.501);
+}
+
