@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+ <html lang="es">
+
+
+    <head>
+        <title>Curriculum</title>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <link rel="stylesheet" href="../css/formulario.css"/>
+    </head>
+    <body>
+     
+    <h1>Curriculum</h1>
+
+    <fieldset>
+            <form action="form.html" method="get" enctype="multipart/form-data">
+                <fieldset class="naranja">
+
+                    <legend class="leyenda1"><em>Informacion basica</em></legend>
+                    <h4>Nombre</h4>
+                    <input type="text" id="id_text" name="n_text" value="" placeholder="Tu nombre"/>
+     
+                    <h4>Altura en centimetros</h4>
+                    <input type="number" id="id_number" name="n_number" value="0"/>
+     
+                    <h4>email</h4>
+                    <input type="email" id="id_email" name="n_email" value="" placeholder="tuemail@dominio.com"/>
+     
+                    <h4>Fecha de Nacimiento</h4>
+                    <input type="date" id="id_date" name="n_date" value="2018-12-17"/>
+
+                </fieldset>
+           
+            <fieldset class="verde">
+
+                    <legend class="leyenda2"><em>Nacionalidad</em></legend>
+                    <input type="radio" id="id_radio1" name="n_radio" value="a" checked/>Española
+                    <input type="radio" id="id_radio2" name="n_radio" value="b"/>Comunitario(UE)
+                    <input type="radio" id="id_radio3" name="n_radio" value="c"/>No comunitario
+               
+            </fieldset>
+
+                <fieldset class="rojo"> 
+                        <legend class="leyenda">Estudios</legend>
+                     <select id="id_select" name="n_select">
+                        <option value="default" selected>Tus estudios</option>
+                        <option value="a">E.S.O</option>
+                        <option value="c">Bachillerato</option>
+                        <option value="g">FPGM</option>
+                        <option value="t">FPGS</option>
+                    </select>
+                </fieldset>
+    <fieldset class="azul">
+            <legend class="leyenda3"><em>Idiomas</em></legend>
+            <input type="checkbox" id="id_checkbox1" name="n_checkbox[]" value="a" checked/>Catalán
+            <input type="checkbox" id="id_checkbox2" name="n_checkbox[]" value="c"/>Castellano
+            <input type="checkbox" id="id_checkbox3" name="n_checkbox[]" value="g"/>Ingles
+            <input type="checkbox" id="id_checkbox4" name="n_checkbox[]" value="t"/>Chino
+    </fieldset>
+<br/>
+    <fieldset class="gris">
+            <input type="submit" id="id_submit" name="n_submit" value="Enviar"/>
+            <input type="reset" id="id_reset" name="n_reset" value="Cancelar"/>
+    </fieldset>  
+    </form>
+</fieldset>
+</body>
+</html> 
