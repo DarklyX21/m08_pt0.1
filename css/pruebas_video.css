@@ -1,0 +1,22 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(../fonts/AlmendraDisplay-Regular.ttf);
+}
+
+video{
+    width: 720px;
+    height: 480px;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Almendra Display', cursive;
+}
+h1:hover{
+    color: brown;
+    background-color: aquamarine;
+}
+
+a:link{
+    color:gold;
+}
