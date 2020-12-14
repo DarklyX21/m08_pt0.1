@@ -1,0 +1,28 @@
+fieldset{
+    width: 500px;
+}
+
+
+
+.legend1{
+    border-style: solid;
+    border-color: white;
+    background-color: rgb(241, 89, 89)
+}
+.legend2{
+    border-style: solid;
+    border-color: white;
+    background-color: greenyellow;
+}
+.id_text{
+    width: 470px;
+}
+.id_text2{
+    width: 470px;
+    height: 180px;
+}
+
+.id_number{
+    width: 50px;
+
+}

@@ -33,7 +33,9 @@ h4{
 .leyenda{
     font-weight: bold;
     text-decoration: underline;
-    font-size: 19px
+    font-size: 19px;
+    border-style: solid;
+    background-color: red;
 }
 
 .leyenda1{
