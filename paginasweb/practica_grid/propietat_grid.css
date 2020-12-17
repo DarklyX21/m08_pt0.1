@@ -1,0 +1,31 @@
+#primerdiv{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+#goku{
+    grid-column-start: 3;
+}
+#div2{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+}
+#termina{
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+#div3{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+    grid-column-start: 3;
+    grid-column-end: 5;
+}    
+#div4{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+    grid-column: 6 / 6;
+}
