@@ -195,7 +195,7 @@ aside img{
 }
 
 footer{
-    background: url('../Imatges/top.png') no-repeat top center, url('../Imatges/line.png') repeat-x top, url('../Imatges/shadow.png') repeat-x top;
+    background: url('../imatges/top.png') no-repeat top center, url('../imatges/line.png') repeat-x top, url('../imatges/shadow.png') repeat-x top;
     padding-top: 25px;
 }
 

@@ -19,8 +19,12 @@ h2{
     border: 1px solid;
     background-color: rgb(17, 17, 17);
     width: 16%;
-    height: 602px;
-    
+    height: 610px;
+
+}
+.gif{
+  position: absolute;
+  top:4.5cm;
 }
 .o2{
     position: relative;
@@ -37,6 +41,7 @@ h2{
     border: 0.1px solid ;
     background-color: rgb(17, 17, 17);
     width: 20%;
+    height: 609px;
 }
 .pie-pagina{
     float: left;
@@ -55,7 +60,7 @@ embed:hover{
 .comprovacion{
     position: absolute;
     left: 0.5cm;
-    top: 21cm;
+    top: 20cm;
     opacity: 0.5;
 }
 .cuadro1{
