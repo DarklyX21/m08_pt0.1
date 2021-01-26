@@ -1,0 +1,13 @@
+body{
+    background-color: plum;
+}
+
+table{
+    height: 250px;
+    width: 40%;
+}
+
+.ancho{
+    margin: auto;
+    width: 70%;
+}

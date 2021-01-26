@@ -1,0 +1,33 @@
+
+  <div id="Layer1" style="height:620px; overflow: scroll;" style="scrollbar-3dlight-color: black ">
+  
+    <div class="cuadro"><a href="paginasweb/Exercici1.html">Exercici 1</a></div>
+
+    <div class="cuadro"><a href="paginasweb/Exercici2.html">Exercici 2</a></div>
+
+    <div class="cuadro"><a href="paginasweb/Exercici3.html">Exercici 3</a></div>
+   
+    <div class="cuadro"><a href="paginasweb/Exercici6.html">Exercici 6</a></div>
+
+    <div class="cuadro"><a href="paginasweb/exercici8.xhtml">Exercici 8 </a></div>
+
+
+    <div class="cuadro"><a href="paginasweb/formulario.html">Formulario </a></div>
+
+   <div class="cuadro"><a href="paginasweb/personajes.html">Personajes</a></div> 
+
+    <div class="cuadro"><a href="paginasweb/Horario.html">Horario </a></div>
+    
+
+
+
+
+    <div class="cuadro"><a href="paginasweb/pixels.xhtml">pixel </a></div>
+
+    <div class="cuadro"><a href="paginasweb/porcentaje.xhtml">porcentaje </a></div>
+
+    <div class="cuadro"><a href="paginasweb/Exercici9.html">Exercici9 </a></div>
+
+    <div class="cuadro"><a href="paginasweb/pagina_per_parts">pagina por partes </a></div>
+
+    <div class="cuadro"><a href="practica 15/index.html">Exercici 15</a></div>
